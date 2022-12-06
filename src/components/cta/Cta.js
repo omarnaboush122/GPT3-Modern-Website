@@ -7,8 +7,8 @@ const Cta = () => {
         <p>Request Early Access to Get Started</p>
         <h3>Register today & start exploring the endless possiblities.</h3>
       </div>
-      <div>
-        <butyon className="gpt3-cta-button" type="button">Get Started</butyon>
+      <div className="gpt3-cta-btn">
+        <button  type="button">Get Started</button>
       </div>
     </div>
   );
