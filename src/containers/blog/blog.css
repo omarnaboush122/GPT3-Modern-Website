@@ -1,0 +1,11 @@
+.gpt3-blog-heading h1 {
+  font-family: var(--font-family);
+font-weight: bold;
+font-size: 62px;
+line-height: 75px;
+letter-spacing: -0.04em;
+background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
