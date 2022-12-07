@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GPT3-Modern-Website/static/css/main.9ba086c6.css",
+    "main.js": "/GPT3-Modern-Website/static/js/main.4bc399ec.js",
+    "static/media/Header Illustration.png": "/GPT3-Modern-Website/static/media/Header Illustration.3610369b7689336fb2e2.png",
+    "static/media/Feature Image.png": "/GPT3-Modern-Website/static/media/Feature Image.5c5212f82359bb9b4c3c.png",
+    "static/media/Rectangle 22-4.png": "/GPT3-Modern-Website/static/media/Rectangle 22-4.e4f518c10c9d8d96b5b4.png",
+    "static/media/Rectangle 22-1.png": "/GPT3-Modern-Website/static/media/Rectangle 22-1.3f60f08fe1449a72db63.png",
+    "static/media/Rectangle 22-2.png": "/GPT3-Modern-Website/static/media/Rectangle 22-2.4aa561c91069f630ce69.png",
+    "static/media/Rectangle 22-3.png": "/GPT3-Modern-Website/static/media/Rectangle 22-3.8994ebf14748a54f9d83.png",
+    "static/media/Rectangle 22.png": "/GPT3-Modern-Website/static/media/Rectangle 22.b9644bdc4a500b8385a5.png",
+    "static/media/Group 81.png": "/GPT3-Modern-Website/static/media/Group 81.5c4374885de073258b3d.png",
+    "static/media/dropbox.png": "/GPT3-Modern-Website/static/media/dropbox.feec34aa2a4bbe71948b.png",
+    "static/media/atlassian.png": "/GPT3-Modern-Website/static/media/atlassian.a37ca925e35e48f8d33d.png",
+    "static/media/GPT-3.svg": "/GPT3-Modern-Website/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/GPT3-Modern-Website/index.html",
+    "main.9ba086c6.css.map": "/GPT3-Modern-Website/static/css/main.9ba086c6.css.map",
+    "main.4bc399ec.js.map": "/GPT3-Modern-Website/static/js/main.4bc399ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba086c6.css",
+    "static/js/main.4bc399ec.js"
+  ]
+}
